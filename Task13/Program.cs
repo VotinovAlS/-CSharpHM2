@@ -25,6 +25,6 @@ else
   }
   else
   {
-    Console.WriteLine("Третьей цифры нет!");
+    Console.WriteLine("Третьей цифры нет! Число не семизначное!");
   }
 }
